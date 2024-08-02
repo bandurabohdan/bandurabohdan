@@ -5,9 +5,7 @@
   
 <br/>
 
-AQA Engineer
-
-Experienced QA Engineer with 2 years of hands-on experience including automated testing using JavaScript and Selenium WebDriver. Proficient in creating robust test scripts and frameworks for both web and mobile applications. Had experience in mentoring and guiding newcomers in the company. I'm enthusiastic about using my technical expertise to constantly enhance software testing processes and methodologies.
+Experienced AQA Engineer with 2 years of hands-on experience including automated testing using JavaScript and Selenium WebDriver. Proficient in creating robust test scripts and frameworks for both web and mobile applications. Had experience in mentoring and guiding newcomers in the company. I'm enthusiastic about using my technical expertise to constantly enhance software testing processes and methodologies.
 
 <br/>  
 
