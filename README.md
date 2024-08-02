@@ -11,22 +11,22 @@ Experienced AQA Engineer with 2 years of hands-on experience including automated
 
 <h3>My Skills<h3/>
 <div>
-  <img src="https://img.icons8.com/?size=100&id=ZIQW0IkyKdZV&format=png&color=000000" width="50" height="50" alt="Selenium Webdriver"/>
-  <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" width="50" height="50" alt="JS"/>
-  <img src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000" width="50" height="50" alt="TS"/>
-  <img src="https://img.icons8.com/?size=100&id=zFAYIdFZlGxP&format=png&color=000000" width="50" height="50" alt="Docker"/>
-  <img src="https://img.icons8.com/?size=100&id=rWQ6Qj4WSwBn&format=png&color=000000" width="50" height="50" alt="TestRail"/>
-  <img src="https://img.icons8.com/?size=100&id=oROcPah5ues6&format=png&color=000000" width="50" height="50" alt="JIRA"/>
-  <img src="https://img.icons8.com/?size=100&id=fKkr9tyfzD06&format=png&color=000000" width="50" height="50" alt="ClickUp"/>
-  <img src="https://img.icons8.com/?size=100&id=QEQQKirln6Tf&format=png&color=000000" width="50" height="50" alt="Postman"/>
-  <img src="https://img.icons8.com/?size=100&id=111953&format=png&color=000000" width="50" height="50" alt="JSON"/>
-  <img src="https://img.icons8.com/?size=100&id=10429&format=png&color=000000" width="50" height="50" alt="SQL"/>
-  <img src="https://img.icons8.com/?size=100&id=D2Hi2VkJSi33&format=png&color=000000" width="50" height="50" alt="HTML"/>
-  <img src="https://img.icons8.com/?size=100&id=YjeKwnSQIBUq&format=png&color=000000" width="50" height="50" alt="CSS"/>
-  <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" width="50" height="50" alt="GIT"/>
-  <img src="https://img.icons8.com/?size=100&id=iZTo5EQZtLKm&format=png&color=000000" width="50" height="50" alt="Bitbucket"/>
-  <img src="https://img.icons8.com/?size=100&id=34886&format=png&color=000000" width="50" height="50" alt="GitLab"/>
-  <img src="https://img.icons8.com/?size=100&id=CexFs1lac6J7&format=png&color=000000" width="50" height="50" alt="GitHub"/>
+  <img src="https://img.icons8.com/?size=100&id=ZIQW0IkyKdZV&format=png&color=000000" width="40" height="40" alt="Selenium Webdriver"/>
+  <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" width="40" height="40" alt="JS"/>
+  <img src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000" width="40" height="40" alt="TS"/>
+  <img src="https://img.icons8.com/?size=100&id=zFAYIdFZlGxP&format=png&color=000000" width="40" height="40" alt="Docker"/>
+  <img src="https://img.icons8.com/?size=100&id=rWQ6Qj4WSwBn&format=png&color=000000" width="40" height="40" alt="TestRail"/>
+  <img src="https://img.icons8.com/?size=100&id=oROcPah5ues6&format=png&color=000000" width="40" height="40" alt="JIRA"/>
+  <img src="https://img.icons8.com/?size=100&id=fKkr9tyfzD06&format=png&color=000000" width="40" height="40" alt="ClickUp"/>
+  <img src="https://img.icons8.com/?size=100&id=QEQQKirln6Tf&format=png&color=000000" width="40" height="40" alt="Postman"/>
+  <img src="https://img.icons8.com/?size=100&id=111953&format=png&color=000000" width="40" height="40" alt="JSON"/>
+  <img src="https://img.icons8.com/?size=100&id=10429&format=png&color=000000" width="40" height="40" alt="SQL"/>
+  <img src="https://img.icons8.com/?size=100&id=D2Hi2VkJSi33&format=png&color=000000" width="40" height="40" alt="HTML"/>
+  <img src="https://img.icons8.com/?size=100&id=YjeKwnSQIBUq&format=png&color=000000" width="40" height="40" alt="CSS"/>
+  <img src="https://img.icons8.com/?size=100&id=20906&format=png&color=000000" width="40" height="40" alt="GIT"/>
+  <img src="https://img.icons8.com/?size=100&id=iZTo5EQZtLKm&format=png&color=000000" width="40" height="40" alt="Bitbucket"/>
+  <img src="https://img.icons8.com/?size=100&id=34886&format=png&color=000000" width="40" height="40" alt="GitLab"/>
+  <img src="https://img.icons8.com/?size=100&id=CexFs1lac6J7&format=png&color=000000" width="40" height="40" alt="GitHub"/>
 </div>
 
 <br/>  
