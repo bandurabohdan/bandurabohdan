@@ -1,6 +1,8 @@
 <!-- Heading -->
 <h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Bohdan Bandura</h3>
 
+<img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" href="https://github.com/sp-xd" alt="CoDiNg RocKs"  width="60%"/><br>
+
 AQA Engineer
 
 Experienced QA Engineer with 2 years of hands-on experience including automated testing using JavaScript and Selenium WebDriver. Proficient in creating robust test scripts and frameworks for both web and mobile applications. Had experience in mentoring and guiding newcomers in the company. I'm enthusiastic about using my technical expertise to constantly enhance software testing processes and methodologies.
