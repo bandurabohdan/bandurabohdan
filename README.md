@@ -1,4 +1,5 @@
-<div align="center">  
+## My Skills
+<div align="center">
   <img src="https://img.icons8.com/?size=100&id=ZIQW0IkyKdZV&format=png&color=000000" width="36" height="36" alt="Selenium Webdriver"/>
   <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" width="36" height="36" alt="JS"/>
   <img src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000" width="36" height="36" alt="TS"/>
