@@ -1,4 +1,5 @@
-## ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)Hi there! I'm Bohdan Bandura
+<!-- Heading -->
+<h3 align="center"><img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 30px> Hi there! I'm Gift Egwuenu</h3>
 
 AQA Engineer
 
@@ -6,7 +7,7 @@ Experienced QA Engineer with 2 years of hands-on experience including automated 
 
 <br/>  
 
-## My Skills
+<h3>My Skills<h3/>
 <div align="center">
   <img src="https://img.icons8.com/?size=100&id=ZIQW0IkyKdZV&format=png&color=000000" width="36" height="36" alt="Selenium Webdriver"/>
   <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" width="36" height="36" alt="JS"/>
@@ -28,15 +29,16 @@ Experienced QA Engineer with 2 years of hands-on experience including automated 
 
 <br/>  
 
-## My GitHub Stats
-
+<h3>My GitHub Stats<h3/>
+  
 <a href="http://www.github.com/bandurabohdan"><img src="https://github-readme-stats.vercel.app/api?username=bandurabohdan&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="bandurabohdan's GitHub stats" /></a>
 
 <a href="https://github.com/bandurabohdan" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bandurabohdan&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
 <br/>  
 
-## Connect with me  
+<h3>Connect with me  <h3/>
+  
 <div align="center">
 <a href="https://github.com/bandurabohdan" target="_blank">
   <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
