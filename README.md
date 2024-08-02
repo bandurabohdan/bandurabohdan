@@ -8,7 +8,7 @@ Experienced QA Engineer with 2 years of hands-on experience including automated 
 <br/>  
 
 <h3>My Skills<h3/>
-<div align="center">
+<div>
   <img src="https://img.icons8.com/?size=100&id=ZIQW0IkyKdZV&format=png&color=000000" width="36" height="36" alt="Selenium Webdriver"/>
   <img src="https://img.icons8.com/?size=100&id=108784&format=png&color=000000" width="36" height="36" alt="JS"/>
   <img src="https://img.icons8.com/?size=100&id=uJM6fQYqDaZK&format=png&color=000000" width="36" height="36" alt="TS"/>
@@ -39,7 +39,7 @@ Experienced QA Engineer with 2 years of hands-on experience including automated 
 
 <h3>Connect with me  <h3/>
   
-<div align="center">
+<div>
 <a href="https://github.com/bandurabohdan" target="_blank">
   <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
