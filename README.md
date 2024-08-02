@@ -1,3 +1,13 @@
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Bandura Bohdan
+======================================================================================================================================
+
+AQA Engineer
+------------
+
+Experienced QA Engineer with 2 years of hands-on experience including automated testing using JavaScript and Selenium WebDriver. Proficient in creating robust test scripts and frameworks for both web and mobile applications. Had experience in mentoring and guiding newcomers in the company. I'm enthusiastic about using my technical expertise to constantly enhance software testing processes and methodologies.
+
+<br/>  
+
 ## My Skills
 <div align="center">
   <img src="https://img.icons8.com/?size=100&id=ZIQW0IkyKdZV&format=png&color=000000" width="36" height="36" alt="Selenium Webdriver"/>
